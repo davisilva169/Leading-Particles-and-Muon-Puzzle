@@ -8,7 +8,6 @@ The **Muon Puzzle** refers to the persistent discrepancy between the number of m
 
 This project specifically examines:
 * The role of **leading particle energy fractions** in air shower development.
-* The impact of the $R$ ratio (the energy ratio between neutral pions and other hadrons).
 * Sensitivity of muon multiplicity at ground level to changes in early-stage hadronic interactions.
 
 ## 🚀 Features
